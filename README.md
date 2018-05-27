@@ -2,13 +2,13 @@
 
 
 ## Table of Contents
-* [About the Project](#About-the-Project)
-* [How to run the Project](#How-to-run-the-Project)
-* [What Happened Inside](#Tests-Involved)
+* [About the Project](#about-the-project)
+* [How to run the Project](#how-to-run-the-project)
+* [What Happened Inside](#tests-involved)
 
 
 ### About the Project
-* This project aims to learn test-driven development `TDD` by validating codes through multible [tests](#Tests-Involved) using a popular framework [Jasmine](http://jasmine.github.io/).
+* This project aims to learn test-driven development `TDD` by validating codes through multible [tests](#tests-involved) using a popular framework [Jasmine](http://jasmine.github.io/).
 * All the work is in `feedreader.js` file in jasmine folder.
 * This is the fifth project within Udacity's Front-End Nanodegree program.
 
