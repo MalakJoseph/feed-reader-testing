@@ -81,8 +81,8 @@ $(function() {
 
 
         it('Shows Some Headlines, at Least 1', () => {
-            let entry = document.querySelectorAll('.entry');
-            expect(entry.length).toBeGreaterThan(0);
+            let entryInsideFeed = document.querySelector('.feed').querySelectorAll('.entry');
+            expect(entryInsideFeed.length).not.toBe(0);
         });
     });
 
